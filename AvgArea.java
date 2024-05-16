@@ -1,6 +1,6 @@
-package edu.upenn.cit594.processor;
+package processor;
 
-import edu.upenn.cit594.util.PropertyData;
+import util.PropertyData;
 
 public class AvgArea implements AvgCalculator {
 
