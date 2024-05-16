@@ -1,4 +1,4 @@
-package edu.upenn.cit594.processor;
+package processor;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -10,9 +10,9 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-import edu.upenn.cit594.util.CovidData;
-import edu.upenn.cit594.util.PopulationData;
-import edu.upenn.cit594.util.PropertyData;
+import util.CovidData;
+import util.PopulationData;
+import util.PropertyData;
 
 public class Processor {
 
