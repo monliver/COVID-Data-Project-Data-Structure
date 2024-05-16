@@ -1,7 +1,7 @@
-package edu.upenn.cit594.datamanagement;
+package datamanagement;
 
-import edu.upenn.cit594.logging.Logger;
-import edu.upenn.cit594.util.CovidData;
+import logging.Logger;
+import util.CovidData;
 
 import java.io.BufferedReader;
 import java.io.File;
