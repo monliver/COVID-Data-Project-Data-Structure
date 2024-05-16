@@ -1,4 +1,4 @@
-package edu.upenn.cit594.ui;
+package ui;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -10,11 +10,11 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.regex.Pattern;
 
-import edu.upenn.cit594.logging.Logger;
-import edu.upenn.cit594.processor.Processor;
-import edu.upenn.cit594.util.CovidData;
-import edu.upenn.cit594.util.PopulationData;
-import edu.upenn.cit594.util.PropertyData;
+import logging.Logger;
+import processor.Processor;
+import util.CovidData;
+import util.PopulationData;
+import util.PropertyData;
 
 public class UserInterface {
 	
