@@ -1,4 +1,4 @@
-package edu.upenn.cit594.util;
+package util;
 
 public class PopulationData {
 	
