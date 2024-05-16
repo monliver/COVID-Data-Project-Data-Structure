@@ -1,10 +1,10 @@
 //aaron
 
 
-package edu.upenn.cit594.datamanagement;
+package datamanagement;
 
-import edu.upenn.cit594.logging.Logger;
-import edu.upenn.cit594.util.CovidData;
+import logging.Logger;
+import util.CovidData;
 import org.json.simple.parser.ParseException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
