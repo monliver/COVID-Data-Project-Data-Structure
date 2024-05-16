@@ -1,7 +1,7 @@
-package edu.upenn.cit594.datamanagement;
+package datamanagement;
 
-import edu.upenn.cit594.logging.Logger;
-import edu.upenn.cit594.util.PopulationData;
+import logging.Logger;
+import util.PopulationData;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
