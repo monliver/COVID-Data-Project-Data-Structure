@@ -1,8 +1,8 @@
 //version 1.3
 
-package edu.upenn.cit594.datamanagement;
+package datamanagement;
 
-import edu.upenn.cit594.util.CovidData;
+import util.CovidData;
 import org.json.simple.parser.ParseException;
 
 import java.util.List;
